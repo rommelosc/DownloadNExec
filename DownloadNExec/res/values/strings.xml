@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">DownloadNExec</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Opciones</string>
+    <string name="title_activity_main">Download N Exec</string>
+    <string name="label_download_button">Descargar</string>
+    <string name="label_exec_button">Ejecutar</string>
+    <string name="label_exec_activity">Info</string>
+    <string name="pdf_item">PDF</string>
+    <string name="image_item">Image</string>
+    <string name="mp3_item">MP3</string>
+    <string name="apk_item">Apk</string>
+    
+
+</resources>
